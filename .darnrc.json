@@ -1,0 +1,12 @@
+{
+  "name": "@denoserverless/jwt",
+  "version": "0.1.0",
+  "description": "A port of auth0/jsonwebtoken",
+  "author": {
+    "name": "Jeroen Peeters",
+    "email": "contact@jeroenpeeters.me"
+  },
+  "config": {
+    "deno": "0.11.0"
+  }
+}
